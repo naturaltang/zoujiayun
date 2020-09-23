@@ -1,0 +1,152 @@
+/* 尾部 */
+
+footer {
+    width: 1200px;
+    height: 500px;
+    cursor: pointer;
+    margin: 0 auto;
+    position: relative;
+}
+
+.boxlast {
+    width: 1200px;
+    height: 240px;
+}
+
+.boxlast p {
+    color: #333;
+    opacity: 0.8;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.boxlast ul {
+    float: left;
+    width: 830px;
+    height: 240px;
+}
+
+.boxlast li {
+    float: left;
+    text-align: center;
+    width: 100px;
+    height: 200px;
+    margin-right: 80px;
+    padding: 20px 0;
+    line-height: 30px;
+}
+
+.boxlast li a {
+    color: #666;
+}
+
+.boxlast li a:hover {
+    color: #e1251b;
+}
+
+.boxlast .li1 {
+    margin-right: 0;
+}
+
+.bl1 {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 20px 20px 0 110px;
+}
+
+.bl1 .p1 {
+    padding-left: 50px;
+    line-height: 50px;
+}
+
+.bl1 .p2 {
+    padding: 0 20px;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.bl1 a {
+    text-align: right;
+    position: absolute;
+    right: 80px;
+}
+
+.h6 {
+    width: 1200px;
+}
+
+.bl2 {
+    width: 1200px;
+    height: 255px;
+    text-align: center;
+}
+
+.bl2 div {
+    margin-top: 5px;
+}
+
+.bl2 a {
+    color: #999;
+}
+
+.bl2 a:hover {
+    color: #e1251b;
+}
+
+.bl2 .d1 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.bl2 .d1 a {
+    color: #666;
+}
+
+.bl2 .d1 a:hover {
+    color: #e1251b;
+}
+
+.bl2 .d2 {
+    margin: 50px 0 0 145px;
+}
+
+
+/* 侧边广告 */
+
+.gu {
+    width: 60px;
+    height: 383px;
+    position: fixed;
+    left: 1400px;
+    top: 300px;
+    cursor: pointer;
+    background-color: #fff;
+}
+
+.gu li {
+    width: 60px;
+    height: 45px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 16px;
+    line-height: 20px;
+    padding-top: 10px;
+}
+
+.gu li a {
+    color: #333;
+}
+
+.gu li:hover {
+    background-color: #e1251b;
+}
+
+.gu li:hover a {
+    color: white;
+}
+
+.gu .li1 {
+    height: 0.0001px;
+    border-bottom: 1px solid gray;
+}
